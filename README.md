@@ -30,8 +30,7 @@ Skills: Html || css || SASS || Bootstrap || Tailwind || JS || React || Next Js |
      </tr>
    </table>
 </p>
-![GitHub metrics](https://metrics.lecoq.io/anishazahan)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anishazahan)  
+![GitHub metrics](https://metrics.lecoq.io/anishazahan)
 
 
 
