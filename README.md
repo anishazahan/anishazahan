@@ -1,7 +1,7 @@
 
 ![Professional Coder](https://media-exp1.licdn.com/dms/image/C5616AQGpUIus3DuvUQ/profile-displaybackgroundimage-shrink_350_1400/0/1668626929864?e=1674086400&v=beta&t=eQYDd1fw9xEQeLo3SKgniaQxm5MrAsEfU8HlJAoZGFY)
 ## Hey! I'am Anisha Zahan Hashi
-### Professional Coder!!!
+### Fronted Developer
 
 
 I am fronted React Js Developer.I have 2 years work experience.I have fresh knowledgeof html,css,bootstrap,tailwind,javascript ES6(comfortable),react.js and familier for express.Js,node Js,Mongodb and other tecnology.You will get 100% full support of work assured until you are fully satisfied.I have the ability to apply professional and technical knowledge in a challenging environment. Which helps me to improve my skills and experience, to develop efficiency and to constantly learn new things for myself.
