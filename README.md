@@ -1,5 +1,5 @@
 
-![Professional Coder](https://media.licdn.com/dms/image/C5616AQGpUIus3DuvUQ/profile-displaybackgroundimage-shrink_350_1400/0/1668626929864?e=1684368000&v=beta&t=FI9VBO7qhcAaJygmBhK7zbdv-STl9VneavPhSS77_vw)
+![Professional Coder](https://i.ibb.co/C21qChb/1668626929864.jpg)
 ## Hey! I'am Anisha Zahan Hashi
 ### Professional Coder
 
