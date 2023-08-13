@@ -1,5 +1,5 @@
 
-![Professional Coder]([https://i.ibb.co/C21qChb/1668626929864.jpg])
+![Professional Coder](https://i.ibb.co/C21qChb/1668626929864.jpg)
 ## Hey! I'am Anisha Zahan Hashi
 ### Professional Coder
 
