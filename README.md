@@ -1,7 +1,9 @@
 
 ![Professional Coder](https://i.ibb.co/C21qChb/1668626929864.jpg)
-## Hey! I'am Anisha Zahan Hashi
+
+## Hey! I'm Anisha Zahan Hashi
 ### Professional Coder
+
 
 
 I am frontend React Js Developer.I have 2 years work experience.I have fresh knowledgeof html,css,bootstrap,tailwind,javascript ES6(comfortable),react.js and familier for express.Js,node Js,Mongodb and other tecnology.You will get 100% full support of work assured until you are fully satisfied.I have the ability to apply professional and technical knowledge in a challenging environment. Which helps me to improve my skills and experience, to develop efficiency and to constantly learn new things for myself.
