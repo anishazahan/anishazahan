@@ -6,7 +6,7 @@
 
 
 
-I am frontend React Js Developer.I have 4+ years work experience and 2.5+ years professional experience.I have fresh knowledgeof html,css,bootstrap,tailwind,javascript ES6(comfortable),react.js and familier for express.Js,node Js,Mongodb and other tecnology.You will get 100% full support of work assured until you are fully satisfied.I have the ability to apply professional and technical knowledge in a challenging environment. Which helps me to improve my skills and experience, to develop efficiency and to constantly learn new things for myself.
+I am frontend React Js Developer.I have 4+ years work experience and 3 years professional experience.I have fresh knowledgeof html,css,bootstrap,tailwind,javascript ES6(comfortable),react.js and familier for express.Js,node Js,Mongodb and other tecnology.You will get 100% full support of work assured until you are fully satisfied.I have the ability to apply professional and technical knowledge in a challenging environment. Which helps me to improve my skills and experience, to develop efficiency and to constantly learn new things for myself.
 
 Skills: Html || css || SASS || Bootstrap || Tailwind || JS || React || Next Js || Typescript || Redux || Node Js || Express Js || MongoDB || Mongoose
 
