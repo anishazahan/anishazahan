@@ -6,15 +6,19 @@
 
 
 
-I am frontend React Js Developer.I have 4+ years work experience and 3 years professional experience.I have fresh knowledgeof html,css,bootstrap,tailwind,javascript ES6(comfortable),react.js and familier for express.Js,node Js,Mongodb and other tecnology.You will get 100% full support of work assured until you are fully satisfied.I have the ability to apply professional and technical knowledge in a challenging environment. Which helps me to improve my skills and experience, to develop efficiency and to constantly learn new things for myself.
+Frontend Engineer with 3+ years of professional experience building scalable and high-performance web applications using React.js and Next.js. Specialized in creating modern, responsive, and user-friendly interfaces with strong focus on clean architecture, reusable components, API integration, and performance optimization.
 
-Skills: Html || css || SASS || Bootstrap || Tailwind || JS || React || Next Js || Typescript || Redux || Node Js || Express Js || MongoDB || Mongoose
+Experienced in developing production-grade ERP systems, dashboards, and full-stack applications with modern frontend technologies and backend integration. Passionate about writing clean, maintainable code and continuously learning new technologies to improve development efficiency and product quality.
 
-- 🔭 I’m currently working on Full Stack Project Muslime-Ummah 
-- 🌱 I’m currently learning Mern Stack 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Applications 
-- 📫 How to reach me: anishazahan13@gmail.com 
+### Skills
+HTML5 || CSS3 || SASS || Bootstrap || Tailwind CSS || JavaScript (ES6+) || TypeScript || React.js || Next.js || Redux Toolkit || RTK Query || TanStack Query || Node.js || Express.js || MongoDB || Mongoose || GraphQL || Prisma || React Native || Flutter || Git || Docker
+
+- 🔭 Currently working on scalable Full Stack and ERP-based applications  
+- 🌱 Currently learning advanced backend architecture and system design  
+- 👯 Open to collaborating on React.js, Next.js, and MERN Stack projects  
+- 💬 Ask me about React.js, Next.js, Frontend Architecture, and Web Applications  
+- 📫 Email: anishazahan13@gmail.com  
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1qihwWl9lGAoKnIYbKIAE4FPjozh67mTr/view)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anishazahan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anisha-zahan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anishazahan13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anisha-zahan.vercel.app/)  
